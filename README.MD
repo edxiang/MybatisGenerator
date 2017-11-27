@@ -9,4 +9,4 @@ push:
     
 pull:
      (first time)git clone git@github.com:edxiang/[ProjectName].git
-     git pull -u origin master
+     git pull origin master
