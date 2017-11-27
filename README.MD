@@ -10,3 +10,8 @@ push:
 pull:
      (first time)git clone git@github.com:edxiang/[ProjectName].git
      git pull origin master
+	 
+	 
+	 
+	 
+password of Linux CentOS:G5PGKsXkynzG
